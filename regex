@@ -1,0 +1,6 @@
+#if whitelisting fails, just use these regex filters
+
+@@||clickserve.dartsearch.net^$important
+@@||dartsearch.net^$important
+@@||googleadservices.com^$important
+
