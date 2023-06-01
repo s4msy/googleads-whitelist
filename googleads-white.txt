@@ -5,3 +5,5 @@ www.dartsearch.net
 www.googleadservices.com
 clickserve.dartsearch.net
 www.clickserve.dartsearch.net
+ad.doubleclick.net
+www.ad.doubleclick.net
